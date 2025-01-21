@@ -1,1 +1,10 @@
+name: extract-ipv4
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - black
+      - pylint
 
